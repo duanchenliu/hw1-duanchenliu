@@ -35,3 +35,9 @@
     overflow: hidden;
     background-color: #f1f1f1;
   }
+
+  a:hover { 
+    background-color: grey;
+    display: inline-block;
+    text-transform: capitalize;
+}
