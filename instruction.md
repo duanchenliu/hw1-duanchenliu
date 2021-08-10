@@ -1,9 +1,4 @@
---- 
 
-layout: default
-title: hw1
-
----
 # <img src="img/logo.png" width="30px"> CSCI339001 Visualization
 
 
